@@ -1,6 +1,6 @@
 ### To install dependencies:
     sudo apt install network-manager
-    sudo apt install systemd-networkd
+    sudo apt install systemd
 
 ### To clone AutoNetworkManager:
     git clone http://git.ddt.dev:9281/wuyunzhou/AutoNetworkManager.git
