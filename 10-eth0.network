@@ -1,9 +1,9 @@
 [Match]
 Name=eth0
 [Network]
-Address=192.168.19.100/24
+Address=192.168.19.90/24
 DHCPServer=yes
 
 [DHCPServer]
-PoolOffset=100
+PoolOffset=90
 PoolSize=10
